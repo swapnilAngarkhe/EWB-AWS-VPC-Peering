@@ -1,0 +1,9 @@
+What I Learned
+
+Through this project, I learned how VPC CIDRs, subnet associations, route tables, VPC Peering, 
+and security groups work together to enable private communication between AWS networks. 
+I gained practical experience accessing private EC2 instances through a bastion host, configuring SSH ProxyJump,
+and validating connectivity with forward and reverse ping tests. The controlled ICMP failure also taught me
+to troubleshoot systematically instead of assuming that an active peering connection guarantees reachability.
+Finally, I learned the importance of cleaning up cloud resources after a lab to avoid unnecessary costs.
+
